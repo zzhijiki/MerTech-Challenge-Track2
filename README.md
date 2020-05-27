@@ -10,6 +10,12 @@ https://aistudio.baidu.com/aistudio/competition/detail/22
 
 
 
+## 概要：
+
+这里主要进行了EDA和预处理，并进行了初步的feature_engineer，初步的分类
+
+后续还要继续修改，使得正确率进入90%。
+
 ## process&EDA.ipynb
 
 process：
