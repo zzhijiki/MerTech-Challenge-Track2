@@ -43,7 +43,9 @@ https://aistudio.baidu.com/aistudio/competition/detail/22
 
 
 
-## notebook探索实验
+## notebook实验:
+
+主要是探索性的
 
 ### process&EDA.ipynb
 
